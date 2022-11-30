@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TamaraVallina
-- 👀 I’m interested in (Marine) biology, primatology, 
+- 👀 I’m interested in marine biology, primatology, behavioural ecology, animal navigation, oceanography, conservation
 - 🌱 I’m currently learning to code better in R 
 - 💞️ I’m looking to collaborate on marine mammal projects, MPA projects
 - 📫 How to reach me: tamara.vallina@wur.nL
